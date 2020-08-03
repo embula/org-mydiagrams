@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-03T17:13:55.962Z" agent="5.0 (Windows)" etag="ZWglEBf6o9Oknimjgnoi" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-03T17:30:37.342Z" agent="5.0 (Windows)" etag="MyKt5rXWrXVWfWFH_-m4" version="13.5.8" type="github">
   <diagram id="GW4mwDwyA0wQwFZXJt3s" name="Page-1">
-    <mxGraphModel dx="2692" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2875" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#D4E1F5" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="x8eZy0DGjHu4TYxoLKKY-140" value="IB Customer Application" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-820" y="190" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x8eZy0DGjHu4TYxoLKKY-141" value="Third Party Applications" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="x8eZy0DGjHu4TYxoLKKY-141" value="Third Party Applications" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-820" y="440" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x8eZy0DGjHu4TYxoLKKY-142" value="IB API " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -28,11 +28,11 @@
         <mxCell id="x8eZy0DGjHu4TYxoLKKY-167" value="CB Konnect Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="410" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="x8eZy0DGjHu4TYxoLKKY-175" value="Safaricom / Airtel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="x8eZy0DGjHu4TYxoLKKY-175" value="Safaricom / Airtel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-360" y="440" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x8eZy0DGjHu4TYxoLKKY-176" value="Billers Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="x8eZy0DGjHu4TYxoLKKY-176" value="Billers Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x8eZy0DGjHu4TYxoLKKY-177" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="1">
           <mxGeometry x="-510" y="240" width="80" height="80" as="geometry" />
@@ -47,12 +47,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-240" y="110" as="sourcePoint" />
             <mxPoint x="-70" y="70" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x8eZy0DGjHu4TYxoLKKY-184" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.556;exitY=-0.067;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="x8eZy0DGjHu4TYxoLKKY-176">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-530" y="360" as="sourcePoint" />
-            <mxPoint x="-480" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x8eZy0DGjHu4TYxoLKKY-185" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="x8eZy0DGjHu4TYxoLKKY-177">
@@ -121,25 +115,25 @@
             <mxPoint x="-430" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x8eZy0DGjHu4TYxoLKKY-201" value="P2P" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="360" width="40" height="20" as="geometry" />
+        <mxCell id="x8eZy0DGjHu4TYxoLKKY-201" value="P2P" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="550" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="x8eZy0DGjHu4TYxoLKKY-202" value="HTTPS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-670" y="360" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="x8eZy0DGjHu4TYxoLKKY-203" value="Mail Server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="x8eZy0DGjHu4TYxoLKKY-203" value="Mail Server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-510" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x8eZy0DGjHu4TYxoLKKY-204" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;" vertex="1" parent="1">
+        <mxCell id="x8eZy0DGjHu4TYxoLKKY-204" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#6c8ebf;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="-830" y="25" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="x8eZy0DGjHu4TYxoLKKY-205" value="Internet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="70" width="40" height="20" as="geometry" />
+          <mxGeometry x="-780" y="70" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="x8eZy0DGjHu4TYxoLKKY-206" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.438;exitY=-0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="x8eZy0DGjHu4TYxoLKKY-140">
+        <mxCell id="x8eZy0DGjHu4TYxoLKKY-206" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.438;exitY=-0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-800" y="165" as="sourcePoint" />
-            <mxPoint x="-750" y="115" as="targetPoint" />
+            <mxPoint x="-761.9200000000001" y="187" as="sourcePoint" />
+            <mxPoint x="-762" y="115" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x8eZy0DGjHu4TYxoLKKY-208" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=-0.025;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="x8eZy0DGjHu4TYxoLKKY-142">
@@ -156,6 +150,36 @@
             <mxPoint x="-510" y="370" as="sourcePoint" />
             <mxPoint x="-460" y="320" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="x8eZy0DGjHu4TYxoLKKY-211" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-510" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x8eZy0DGjHu4TYxoLKKY-212" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-640" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x8eZy0DGjHu4TYxoLKKY-213" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="x8eZy0DGjHu4TYxoLKKY-211">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-700" y="620" as="sourcePoint" />
+            <mxPoint x="-650" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8eZy0DGjHu4TYxoLKKY-214" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-510" y="610" as="sourcePoint" />
+            <mxPoint x="-600" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8eZy0DGjHu4TYxoLKKY-215" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-590" y="430" as="sourcePoint" />
+            <mxPoint x="-480" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8eZy0DGjHu4TYxoLKKY-216" value="Router" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="610" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x8eZy0DGjHu4TYxoLKKY-217" value="Firewall" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="510" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
