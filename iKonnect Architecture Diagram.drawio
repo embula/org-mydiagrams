@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-03T18:09:35.823Z" agent="5.0 (Windows)" etag="eQKf1QqQhgEBJSDqBj9u" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-03T18:19:33.253Z" agent="5.0 (Windows)" etag="n8xfBPXkZLLIZg6awlbV" version="13.5.8" type="github">
   <diagram id="GW4mwDwyA0wQwFZXJt3s" name="Page-1">
     <mxGraphModel dx="3137" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#D4E1F5" math="0" shadow="0">
       <root>
@@ -28,8 +28,8 @@
         <mxCell id="x8eZy0DGjHu4TYxoLKKY-167" value="CB Konnect Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-160" y="487" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="x8eZy0DGjHu4TYxoLKKY-175" value="Safaricom / Airtel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2AB59E;strokeColor=#D79B00;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="547" width="160" height="60" as="geometry" />
+        <mxCell id="x8eZy0DGjHu4TYxoLKKY-175" value="Safaricom / Airtel Mobile money integration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2AB59E;strokeColor=#D79B00;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="547" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x8eZy0DGjHu4TYxoLKKY-176" value="Billers Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-960" y="667" width="120" height="60" as="geometry" />
