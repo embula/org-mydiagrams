@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-06T09:50:25.696Z" agent="5.0 (Windows)" etag="hvv9TPfrm_yqF9NAI0SK" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-06T13:58:15.082Z" agent="5.0 (Windows)" etag="URk-WCzwKFVATeJasN77" version="13.5.8" type="github">
   <diagram id="GW4mwDwyA0wQwFZXJt3s" name="Page-1">
     <mxGraphModel dx="3137" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#D4E1F5" math="0" shadow="0">
       <root>
@@ -122,9 +122,9 @@
           <mxGeometry x="-730" y="437" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="x8eZy0DGjHu4TYxoLKKY-203" value="Mail Server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2AB59E;strokeColor=#D79B00;" parent="1" vertex="1">
-          <mxGeometry x="-970" y="337" width="170" height="60" as="geometry" />
+          <mxGeometry x="-970" y="367" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x8eZy0DGjHu4TYxoLKKY-204" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#6c8ebf;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;fillColor=#dae8fc;" parent="1" vertex="1">
+        <mxCell id="x8eZy0DGjHu4TYxoLKKY-204" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#0593AF;" parent="1" vertex="1">
           <mxGeometry x="-960" y="10" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="x8eZy0DGjHu4TYxoLKKY-205" value="Internet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -181,7 +181,7 @@
         <mxCell id="x8eZy0DGjHu4TYxoLKKY-217" value="Firewall" style="text;html=1;strokeColor=#3A5431;fillColor=#6d8764;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-650" y="587" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="x8eZy0DGjHu4TYxoLKKY-222" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" target="x8eZy0DGjHu4TYxoLKKY-142" edge="1">
+        <mxCell id="x8eZy0DGjHu4TYxoLKKY-222" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.95;exitY=-0.014;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="x8eZy0DGjHu4TYxoLKKY-142" edge="1" source="x8eZy0DGjHu4TYxoLKKY-203">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-800" y="337" as="sourcePoint" />
             <mxPoint x="-750" y="287" as="targetPoint" />
@@ -248,7 +248,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H8kgPuMGfSVuQBqLOsi1-4" value="TCP" style="text;html=1;strokeColor=#314354;fillColor=#647687;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="347" width="40" height="20" as="geometry" />
+          <mxGeometry x="-700" y="357" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H8kgPuMGfSVuQBqLOsi1-5" value="HTTPS" style="text;html=1;strokeColor=#314354;fillColor=#647687;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-560" y="247" width="40" height="20" as="geometry" />
