@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-06T16:19:20.798Z" agent="5.0 (Windows)" etag="CV1Vx71mKoXEIYEIOz1V" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-06T16:22:20.227Z" agent="5.0 (Windows)" etag="jmQfNTP_S7aFMRH0wulm" version="13.5.8" type="github">
   <diagram id="vlZMCVXYZLQBkwcgjIeW" name="Page-1">
     <mxGraphModel dx="2310" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -414,8 +414,8 @@
         <mxCell id="Aq3l9y1NEmaX5fChTpc7-141" value="TCP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1041" y="630" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Aq3l9y1NEmaX5fChTpc7-142" value="Transaction,Enquiries" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="1081" y="600" width="130" height="20" as="geometry" />
+        <mxCell id="Aq3l9y1NEmaX5fChTpc7-142" value="Transaction,Enquiries, statements" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="1051" y="600" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Aq3l9y1NEmaX5fChTpc7-143" value="TCP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="860" width="40" height="20" as="geometry" />
@@ -497,6 +497,9 @@
         </mxCell>
         <mxCell id="Aq3l9y1NEmaX5fChTpc7-173" value="Utility bill payments" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="1130" y="385" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq3l9y1NEmaX5fChTpc7-174" value="Customer transactions, enquiries" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="780" y="535" width="190" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
