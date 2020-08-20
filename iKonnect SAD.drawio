@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T11:06:50.860Z" agent="5.0 (Windows)" etag="WU1Ala2GIf2LMyxcby4k" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-20T11:10:50.284Z" agent="5.0 (Windows)" etag="osKbv9tYchJrFzg5XdYF" version="13.6.4" type="github">
   <diagram id="vlZMCVXYZLQBkwcgjIeW" name="Page-1">
     <mxGraphModel dx="1865" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="180" y="29.5" width="59" height="59" as="geometry" />
         </mxCell>
         <mxCell id="Aq3l9y1NEmaX5fChTpc7-15" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" parent="1" vertex="1">
-          <mxGeometry x="330" y="28" width="60" height="60.5" as="geometry" />
+          <mxGeometry x="395" y="29.5" width="60" height="60.5" as="geometry" />
         </mxCell>
         <mxCell id="Aq3l9y1NEmaX5fChTpc7-22" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.load_balancer_generic" parent="1" vertex="1">
           <mxGeometry x="720" y="310" width="37" height="50" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="185" y="80" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Aq3l9y1NEmaX5fChTpc7-32" value="Firewall" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="90" width="60" height="20" as="geometry" />
+          <mxGeometry x="360" y="88.5" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Aq3l9y1NEmaX5fChTpc7-34" value="ESB Load Balancer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="278" width="120" height="20" as="geometry" />
@@ -46,7 +46,7 @@
         <mxCell id="Aq3l9y1NEmaX5fChTpc7-38" value="" style="endArrow=classic;startArrow=classic;html=1;" parent="1" source="Aq3l9y1NEmaX5fChTpc7-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="110" as="sourcePoint" />
-            <mxPoint x="330" y="60" as="targetPoint" />
+            <mxPoint x="390" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Aq3l9y1NEmaX5fChTpc7-39" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Aq3l9y1NEmaX5fChTpc7-11" edge="1">
@@ -162,7 +162,7 @@
         <mxCell id="Aq3l9y1NEmaX5fChTpc7-79" value="iKonnect API Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="281.75" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Aq3l9y1NEmaX5fChTpc7-80" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Aq3l9y1NEmaX5fChTpc7-4" edge="1" target="Aq3l9y1NEmaX5fChTpc7-15">
+        <mxCell id="Aq3l9y1NEmaX5fChTpc7-80" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.256;exitY=-0.09;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Aq3l9y1NEmaX5fChTpc7-4" edge="1" target="Aq3l9y1NEmaX5fChTpc7-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="473.5" y="228" as="sourcePoint" />
             <mxPoint x="537.5" y="75" as="targetPoint" />
@@ -457,10 +457,10 @@
           <mxGeometry x="435" y="405" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Aq3l9y1NEmaX5fChTpc7-167" value="HTTPS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="385" y="100" width="50" height="20" as="geometry" />
+          <mxGeometry x="420" y="108.5" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Aq3l9y1NEmaX5fChTpc7-168" value="Customer softtoken profile, softtoken code" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=2" parent="1" vertex="1">
-          <mxGeometry x="174" y="150" width="240" height="20" as="geometry" />
+          <mxGeometry x="310" y="140" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Aq3l9y1NEmaX5fChTpc7-169" value="" style="endArrow=classic;startArrow=classic;html=1;" parent="1" target="Aq3l9y1NEmaX5fChTpc7-170" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
