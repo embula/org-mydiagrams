@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T11:22:07.771Z" agent="5.0 (Windows)" etag="kz4ZYcvLqSfiva0OaRqs" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-20T11:40:24.137Z" agent="5.0 (Windows)" etag="KyVeerbKDShLAAFp8Fjm" version="13.6.4" type="github">
   <diagram id="vlZMCVXYZLQBkwcgjIeW" name="Page-1">
     <mxGraphModel dx="1865" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
           <mxGeometry x="20" y="80" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Aq3l9y1NEmaX5fChTpc7-36" value="ESB Server Cluster" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="678.5" y="469" width="120" height="20" as="geometry" />
+          <mxGeometry x="680" y="490" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Aq3l9y1NEmaX5fChTpc7-38" value="" style="endArrow=classic;startArrow=classic;html=1;" parent="1" source="Aq3l9y1NEmaX5fChTpc7-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -75,9 +75,6 @@
         </mxCell>
         <mxCell id="Aq3l9y1NEmaX5fChTpc7-47" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" parent="1" vertex="1">
           <mxGeometry x="220" y="226.5" width="60" height="60.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Aq3l9y1NEmaX5fChTpc7-57" value="ESB Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="610" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Aq3l9y1NEmaX5fChTpc7-58" value="Intranet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="590" width="50" height="20" as="geometry" />
@@ -444,8 +441,8 @@
         <mxCell id="Aq3l9y1NEmaX5fChTpc7-165" value="HTTPS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="447" y="350" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Aq3l9y1NEmaX5fChTpc7-166" value="Send customer activation mails" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=2" parent="1" vertex="1">
-          <mxGeometry x="435" y="405" width="180" height="20" as="geometry" />
+        <mxCell id="Aq3l9y1NEmaX5fChTpc7-166" value="&lt;div&gt;Send customer activation mails&lt;/div&gt;&lt;div&gt;Ticketting&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="435" y="400" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Aq3l9y1NEmaX5fChTpc7-167" value="HTTPS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="108.5" width="50" height="20" as="geometry" />
