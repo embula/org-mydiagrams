@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T11:04:39.653Z" agent="5.0 (Windows)" etag="M4MfCxpaUjgPLMMZaPmh" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T11:06:22.836Z" agent="5.0 (Windows)" etag="nD4m6eT92ZP3XoUGuLhF" version="13.8.0" type="github">
   <diagram id="vlZMCVXYZLQBkwcgjIeW" name="Page-1">
     <mxGraphModel dx="3964" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -360,7 +360,7 @@
         <mxCell id="Aq3l9y1NEmaX5fChTpc7-163" value="HTTPS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="-1302.5" y="-517.87" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Aq3l9y1NEmaX5fChTpc7-166" value="&lt;div&gt;Send customer activation mails&lt;/div&gt;&lt;div&gt;Ticketting, chat&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=2" parent="1" vertex="1">
+        <mxCell id="Aq3l9y1NEmaX5fChTpc7-166" value="&lt;div&gt;Send customer activation mails&lt;/div&gt;&lt;div&gt;Ticketting, chat module&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="-1136.44" y="-640" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Aq3l9y1NEmaX5fChTpc7-167" value="HTTPS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=2" parent="1" vertex="1">
